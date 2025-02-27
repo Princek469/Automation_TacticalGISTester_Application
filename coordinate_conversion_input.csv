@@ -1,0 +1,3 @@
+input_projection,output_projection,zone,lat,long,tolerance,East,North
+India,Geolagacy,0,2574968.250000,757688.062500,0.01,38687235.958111,16812350
+Geolagacy,igrs,3A,2574968.250000,757688.062500,0.01,38687235.958111,16812350  

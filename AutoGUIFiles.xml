@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Configuration>
+    <LOS>
+        <InputCSVFilePath>C:\Users\ec.pkjha\Desktop\AutoGUI\LOS_input.csv</InputCSVFilePath>
+        <OutputCSVFilePath>C:\Users\ec.pkjha\Desktop\AutoGUI\LOS_output.csv</OutputCSVFilePath>
+    </LOS>
+    <CoordinateConversion>
+        <InputCSVFilePath>C:\Users\ec.pkjha\Desktop\AutoGUI\coordinate_conversion_input.csv</InputCSVFilePath>
+        <OutputCSVFilePath>C:\Users\ec.pkjha\Desktop\AutoGUI\coordinate_conversion_output.csv</OutputCSVFilePath>
+    </CoordinateConversion>
+    <AppPath>C:\BhugyanGIS\TacticalGISTest.exe</AppPath>
+    <WorkspaceFilePath>C:\Users\ec.pkjha\Desktop\FileFormatSamples\WorkspaceBODC\Bodc_43j4WebMercator.wks</WorkspaceFilePath>
+    <WindowTitle>TacticalGis Test Application</WindowTitle>
+</Configuration>
+                        
+
+
+
+
