@@ -70,9 +70,11 @@ python rawFormats.py
 
 ## Demo
 - Automation of Coordinate_Conversion
-[Watch the Video](https://github.com/Princek469/Automation_TacticalGISTester_Application/raw/main/coordinate_conversion.mp4)
+## Watch the Video
+https://github.com/user-attachments/assets/e4b14515-d928-475c-b388-5fb2af44510c
 
-- Automation of LOS
-[Watch the Video](https://github.com/Princek469/Automation_TacticalGISTester_Application/raw/main/LOS.mp4)
+- Automation of LOS(Line of Sight)
+## Watch the Video
+https://github.com/user-attachments/assets/1c22d9dc-86d1-4059-a306-c83b4676c099
 
 
