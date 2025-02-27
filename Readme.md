@@ -24,7 +24,7 @@ This project focuses on automating GUI interactions with the TacticalGis Test Ap
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/Automation_TacticalGISTester_Application.git
    cd your-repo
    ```
 2. Install required dependencies:
