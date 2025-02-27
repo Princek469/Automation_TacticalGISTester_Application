@@ -67,7 +67,7 @@ python rawFormats.py
 - Implement a GUI-based dashboard for monitoring automation progress.
 - Extend support for additional GIS-based automation tasks.
 
----
-### Authors
-Your Name | Your Contact | Your Organization
+
+## Demo
+[Watch the Video](https://github.com/Princek469/Automation_TacticalGISTester_Application/raw/main/coordinate_conversion.mp4)
 
